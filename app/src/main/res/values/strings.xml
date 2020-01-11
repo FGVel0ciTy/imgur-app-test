@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Random Album Picture</string>
+
+    <string name="DEFAULT_ALBUM">https://api.imgur.com/3/album/RzfXwkg</string>
+
+    <string name="clientID">Client-ID 240b71ac8c0385d</string>
+
+    <string name="clientSecret">b4ee816f8fb75926d321a48c13d21c8a7a533939</string>
+</resources>
